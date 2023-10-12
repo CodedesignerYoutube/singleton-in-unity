@@ -1,0 +1,1 @@
+# singleton-in-unity
